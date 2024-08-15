@@ -53,7 +53,8 @@ If you encounter any issues during installation or usage, consider the following
 - Verify that your device has enough storage space and processing power.
 - Check for any errors during the installation process and re-run the installation script if necessary.
 - Refer to the [Wine](https://www.winehq.org/) and [Box64](https://github.com/ptitSeb/box64) documentation for additional support.
-
+## additional notes
+it is recommended to install `xserver xsdl` because it is required for the audio to work you just have to go into app and click on the first option don't change any settings because we will not be using this for display and just click on the first option to start it and now don't close it just put it in your recent's and now just run lobox as normal the sound will only work if `xserver xsdl` is in recent's and you did not change any settings and just click the enter or just at the first button it can be installed from [here](https://xserver-xsdl.en.uptodown.com/android/download)
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Lobox, please fork the repository and submit a pull request.
