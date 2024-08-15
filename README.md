@@ -27,10 +27,10 @@ Before installing Lobox, make sure you have the following prerequisites:
 
 To install Lobox on your Android device, follow these simple steps:
 
-1. Open Termux and run the following command to update your package list and install `wget`:
+1. Open Termux and run the following command to update your package list and install `wget` and the `x11-repo`:
 
    ```bash
-   pkg update && pkg upgrade && pkg install wget
+   pkg update && pkg upgrade && pkg install wget x11-repo
    ```
 
 2. Download and run the Lobox installation script:
