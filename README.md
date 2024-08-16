@@ -59,6 +59,7 @@ also installing inputbridge is possible just make a installer like in /sdcard/in
 [here](https://youtu.be/8PIvorq1OwU?si=EHM41j6hgzZrvZ7y)
 another one for even better explanation if you have not understood anything from the previous one
 [here](https://feji.us/lmzqf8)
+also in your termux-x11 config make sure that the screen size is 800x600
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Lobox, please fork the repository and submit a pull request.
@@ -73,5 +74,6 @@ Lobox is licensed under the MIT License. See the [LICENSE](LICENSE) file for mor
 - [Box64](https://github.com/ptitSeb/box64)
 - [Termux](https://termux.com/)
 - [Termux X11](https://github.com/termux/termux-x11)
+- [unknown](https://feji.us/lmzqf8)
 
 ---
