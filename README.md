@@ -54,7 +54,11 @@ If you encounter any issues during installation or usage, consider the following
 - Check for any errors during the installation process and re-run the installation script if necessary.
 - Refer to the [Wine](https://www.winehq.org/) and [Box64](https://github.com/ptitSeb/box64) documentation for additional support.
 ## additional notes
-it is recommended to install `xserver xsdl` because it is required for the audio to work you just have to go into app and click on the first option don't change any settings because we will not be using this for display and just click on the first option to start it and now don't close it just put it in your recent's and now just run lobox as normal the sound will only work if `xserver xsdl` is in recent's and you did not change any settings and just click the enter or just at the first button it can be installed from [here](https://xserver-xsdl.en.uptodown.com/android/download)
+it is recommended to install `xserver xsdl` because it is required for the audio to work you just have to go into app and wait 5 to ,6 don't change any settings because we will not be using this for display,now don't close it just put it in your recent's and now just run lobox as normal the sound will only work if `xserver xsdl` is in recent's and you did not change any settings and just waited  5 to 6 to 8 seconds.it can be installed from [here](https://xserver-xsdl.en.uptodown.com/android/download)
+also installing inputbridge is possible just make a installer like in /sdcard/installer using the app and navigate to it in wine using cmd and then just run install.bat and after that ib.exe you will need to run this exe file every time you want input bridge control here is a video for better explanation
+[here](https://youtu.be/8PIvorq1OwU?si=EHM41j6hgzZrvZ7y)
+another one for even better explanation if you have not understood anything from the previous one
+[here](https://feji.us/lmzqf8)
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to Lobox, please fork the repository and submit a pull request.
