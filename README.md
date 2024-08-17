@@ -66,7 +66,7 @@ Contributions are welcome! If you'd like to contribute to Lobox, please fork the
 
 ## License
 
-Lobox is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Lobox is licensed under the OSP License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
